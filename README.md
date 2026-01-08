@@ -33,3 +33,10 @@ Ou seja:
 - Requests
 - API REST do IBGE
 - PyInstaller
+
+  ## ▶️ Como executar o projeto
+
+### 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/seu-usuario/consulta-municipios-ibge.git
+cd consulta-municipios-ibge
